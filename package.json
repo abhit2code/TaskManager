@@ -10,9 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nozbe/simdjson": "^3.9.4",
+    "@nozbe/watermelondb": "^0.28.0",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native/new-app-screen": "0.82.1",
     "react": "19.1.1",
     "react-native": "0.82.1",
-    "@react-native/new-app-screen": "0.82.1",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
